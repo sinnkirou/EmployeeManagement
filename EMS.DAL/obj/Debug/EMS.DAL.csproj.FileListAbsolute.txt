@@ -1,0 +1,9 @@
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.DAL\bin\Debug\EMS.DAL.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.DAL\bin\Debug\EMS.DAL.pdb
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.DAL\bin\Debug\EMS.Model.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.DAL\bin\Debug\EntityFramework.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.DAL\bin\Debug\EMS.Model.pdb
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.DAL\bin\Debug\EntityFramework.xml
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.DAL\obj\Debug\EMS.DAL.csprojResolveAssemblyReference.cache
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.DAL\obj\Debug\EMS.DAL.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.DAL\obj\Debug\EMS.DAL.pdb

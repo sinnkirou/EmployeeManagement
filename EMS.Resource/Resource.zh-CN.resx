@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddressInputError" xml:space="preserve">
+    <value>输入非法，请重新输入：</value>
+  </data>
+  <data name="AddressInputTips" xml:space="preserve">
+    <value>请输入您要操作的员工的地址（可空）：</value>
+  </data>
+  <data name="BirthInputError" xml:space="preserve">
+    <value>输入非法，请重新输入（例如”2016-1-30“）：</value>
+  </data>
+  <data name="BirthInputTips" xml:space="preserve">
+    <value>请输入您要操作的员工的生日（例如”2016-1-30“）：</value>
+  </data>
+  <data name="CreateFailInfo" xml:space="preserve">
+    <value>新建失败！</value>
+  </data>
+  <data name="CreateInfo" xml:space="preserve">
+    <value>请根据以下提示完成员工添加：</value>
+  </data>
+  <data name="CreateSuccessInfo" xml:space="preserve">
+    <value>新建成功！</value>
+  </data>
+  <data name="DeleteFailInfo" xml:space="preserve">
+    <value>删除失败！</value>
+  </data>
+  <data name="DeleteInfo" xml:space="preserve">
+    <value>请根据以下提示完成员工删除：</value>
+  </data>
+  <data name="DeleteSuccessInfo" xml:space="preserve">
+    <value>删除成功！</value>
+  </data>
+  <data name="DeleteWarning1" xml:space="preserve">
+    <value>您正在删除</value>
+  </data>
+  <data name="DeleteWarning2" xml:space="preserve">
+    <value>的信息，请按D键以确认删除：</value>
+  </data>
+  <data name="FirstNameInputTips" xml:space="preserve">
+    <value>请输入您要操作的员工的名：</value>
+  </data>
+  <data name="GenderInputError" xml:space="preserve">
+    <value>输入非法，请重新输入（M代表男，F代表“女“）：</value>
+  </data>
+  <data name="GenderInputTips" xml:space="preserve">
+    <value>请输入您要操作的员工的性别（M代表”男“，F代表“女“）：</value>
+  </data>
+  <data name="IdInputError" xml:space="preserve">
+    <value>应为一个正整数，请重新输入：</value>
+  </data>
+  <data name="IdInputTips" xml:space="preserve">
+    <value>请输入您要操作的员工的员工号：</value>
+  </data>
+  <data name="InvalidOptionError" xml:space="preserve">
+    <value>非法输入，请重新输入。</value>
+  </data>
+  <data name="LastNameInputTips" xml:space="preserve">
+    <value>请输入您要操作的员工的姓：</value>
+  </data>
+  <data name="LoginInputError" xml:space="preserve">
+    <value>应为一个正整数！</value>
+  </data>
+  <data name="LoginNonExistError" xml:space="preserve">
+    <value>对不起，用户不存在！</value>
+  </data>
+  <data name="LoginTips" xml:space="preserve">
+    <value>请输入用户ID，并按回车登陆:</value>
+  </data>
+  <data name="MainPageTips" xml:space="preserve">
+    <value>请输入以下数字指令来操作：</value>
+  </data>
+  <data name="NameInputError" xml:space="preserve">
+    <value>不能为空，请重新输入：</value>
+  </data>
+  <data name="NoOptionsError" xml:space="preserve">
+    <value>没有这个指令，请重新输入。</value>
+  </data>
+  <data name="Option1" xml:space="preserve">
+    <value>1）显示所有员工信息</value>
+  </data>
+  <data name="Option2" xml:space="preserve">
+    <value>2）添加员工</value>
+  </data>
+  <data name="Option3" xml:space="preserve">
+    <value>3）搜索员工</value>
+  </data>
+  <data name="Option4" xml:space="preserve">
+    <value>4）更新员工</value>
+  </data>
+  <data name="Option5" xml:space="preserve">
+    <value>5）删除员工</value>
+  </data>
+  <data name="Option9" xml:space="preserve">
+    <value>9）注销</value>
+  </data>
+  <data name="PhoneInputError" xml:space="preserve">
+    <value>输入非法，请重新输入（移动电话或者座机，例如18842661234 或者0571-87647620）：</value>
+  </data>
+  <data name="PhoneInputTips" xml:space="preserve">
+    <value>请输入您要操作的员工的生日（移动电话或者座机，例如18842661234 或者0571-87647620）：</value>
+  </data>
+  <data name="ResultCountInfo" xml:space="preserve">
+    <value>个员工被找到，如下：</value>
+  </data>
+  <data name="ResultTitle" xml:space="preserve">
+    <value>员工号|    姓名  |  性别  |    生日    |    地址     |     电话      |</value>
+  </data>
+  <data name="ReturnInfo" xml:space="preserve">
+    <value>请按ESC退回主菜单：</value>
+  </data>
+  <data name="SearchedZeroInfo" xml:space="preserve">
+    <value>未找到对应的员工信息。</value>
+  </data>
+  <data name="SearchInfo" xml:space="preserve">
+    <value>请根据以下提示完成员工搜索（若不需要以此字段作为搜索条件请留空）：</value>
+  </data>
+  <data name="UpdateFailInfo" xml:space="preserve">
+    <value>更新失败！</value>
+  </data>
+  <data name="UpdateInfo" xml:space="preserve">
+    <value>请根据以下提示完成员工更新：</value>
+  </data>
+  <data name="UpdateInfo1" xml:space="preserve">
+    <value>您正在更新</value>
+  </data>
+  <data name="UpdateInfo2" xml:space="preserve">
+    <value>的信息（若不需要更新该字段请留空）:</value>
+  </data>
+  <data name="UpdateSuccessInfo" xml:space="preserve">
+    <value>更新成功！</value>
+  </data>
+  <data name="WelcomeInfo1" xml:space="preserve">
+    <value>您好，欢迎</value>
+  </data>
+  <data name="WelcomeInfo2" xml:space="preserve">
+    <value>登陆员工管理系统！</value>
+  </data>
+</root>

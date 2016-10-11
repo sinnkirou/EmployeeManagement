@@ -1,0 +1,13 @@
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Test\bin\Debug\EMS.Test.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Test\bin\Debug\EMS.Test.pdb
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Test\bin\Debug\EMS.BLL.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Test\bin\Debug\EMS.DAL.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Test\bin\Debug\EMS.Model.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Test\bin\Debug\EntityFramework.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Test\bin\Debug\EMS.BLL.pdb
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Test\bin\Debug\EMS.DAL.pdb
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Test\bin\Debug\EMS.Model.pdb
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Test\bin\Debug\EntityFramework.xml
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Test\obj\Debug\EMS.Test.csprojResolveAssemblyReference.cache
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Test\obj\Debug\EMS.Test.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Test\obj\Debug\EMS.Test.pdb

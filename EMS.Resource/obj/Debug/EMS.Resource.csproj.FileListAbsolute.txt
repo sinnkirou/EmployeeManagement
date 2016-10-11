@@ -1,0 +1,12 @@
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Resource\bin\Debug\EMS.Resource.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Resource\bin\Debug\EMS.Resource.pdb
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Resource\bin\Debug\en-US\EMS.Resource.resources.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Resource\bin\Debug\zh-CN\EMS.Resource.resources.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Resource\obj\Debug\EMS.Resource.csprojResolveAssemblyReference.cache
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Resource\obj\Debug\EMS.Resource.Resource.en-US.resources
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Resource\obj\Debug\EMS.Resource.Resource.zh-CN.resources
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Resource\obj\Debug\EMS.Resource.csproj.GenerateResource.Cache
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Resource\obj\Debug\en-US\EMS.Resource.resources.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Resource\obj\Debug\zh-CN\EMS.Resource.resources.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Resource\obj\Debug\EMS.Resource.dll
+c:\users\ziv.zhao\documents\visual studio 2013\Projects\EmployeeManagement\EMS.Resource\obj\Debug\EMS.Resource.pdb
